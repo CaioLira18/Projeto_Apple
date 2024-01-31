@@ -1,6 +1,7 @@
 # Projeto_Apple
 
-# Recriação da Pagina do Site Official da Apple usando (HTML, CSS, JS)
+# Introdução
+- Recriação da Pagina do Site Official da Apple usando (HTML, CSS, JS)
 
 # Linguagens Usadas
 - HTML: Criação da interdace da pagina (Esqueleto da Pagina)
